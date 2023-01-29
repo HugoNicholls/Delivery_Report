@@ -1,5 +1,5 @@
 # Delivery_Report
-VBA Code and Excel macros used to match all relevant information across 6 different worksheets, and then dynamically creating and spacing each generated delivery trip.
+VBA Code and Excel macros used to match all relevant information across 6 different worksheets, and then dynamically create and space each generated delivery trip.
 
 
 # Additional Features
